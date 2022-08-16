@@ -7,6 +7,11 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: 'Anton', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    font-size: x-large;
+
 }
 
 li{
@@ -24,7 +29,7 @@ li{
     padding: 25px;
 }
 .texto{
-    padding: 20px;
+    padding: 35px;
     height: 20px;
 }
 .subtitulo{
@@ -33,4 +38,9 @@ li{
 }
 footer{
     padding-top: 30px;
+}
+.historia{
+    font-size: large;
+    margin-bottom: 10px;
+    padding-left: 65px;
 }
